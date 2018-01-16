@@ -1,6 +1,6 @@
 backend:
-  name: bitbucket
-  repo: bwt/dobrabasta
+  name: github
+  repo: matokov/basta
 
 media_folder: "static/data/img"
 
