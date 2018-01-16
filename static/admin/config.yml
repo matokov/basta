@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: matokov/basta
-  branch: master # Branch to update (optional; defaults to master)
+  name: git-gateway
 
 media_folder: "static/data/img"
 
