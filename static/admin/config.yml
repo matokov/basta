@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: matokov/basta
 
 media_folder: "static/data/img"
 
